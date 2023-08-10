@@ -17,20 +17,11 @@ mapboxgl.accessToken =
 // ];
 
 // function moveMap(location) {
-// 	console.log("move");
 // 	map.easeTo({
-// 		center: location[0],
-// 		zoom: location[1],
+// 		center: ,
+// 		zoom: ,
 // 		duration: 4000,
-// 		pitch: location[2],
-// 		bearing: location[3],
-// 	});
-// }
-
-// const buttons = document.getElementsByClassName("button");
-
-// for (let i = 0; i < 5; i++) {
-// 	buttons[i].addEventListener("click", function () {
-// 		moveMap(locations[i]);
+// 		pitch: ,
+// 		bearing: ,
 // 	});
 // }
