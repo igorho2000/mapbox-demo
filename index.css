@@ -3,22 +3,22 @@ body {
 	padding: 0;
 }
 #map {
-	position: absolute;
+	/* position: absolute;
 	top: 0;
 	bottom: 50px;
-	width: 100%;
+	width: 100%; */
 }
 .button-container {
-	position: absolute;
+	/* position: absolute;
 	height: 50px;
 	bottom: 0;
 	width: 100%;
 	display: flex;
 	align-items: center;
-	background-color: rgb(30, 30, 30);
+	background-color: rgb(30, 30, 30); */
 }
 .button {
-	margin: 0 4px;
+	/* margin: 0 4px;
 	border-radius: 2rem;
-	cursor: pointer;
+	cursor: pointer; */
 }
